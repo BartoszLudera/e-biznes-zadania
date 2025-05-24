@@ -1,0 +1,5 @@
+
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNNY/KQ3XUrVAVEELSeFOQ=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmws6dcY=
+github.com/rs/cors v1.10.1 h1:L0uuZVXIKlI1SShY2nhFfoJShhQAUfapmggSnyJMXP=
+github.com/rs/cors v1.10.1/go.mod h1:XysOh7vOYJOK8PK1k1qXBXBNP/zJWAPtShCB+Tw6=
