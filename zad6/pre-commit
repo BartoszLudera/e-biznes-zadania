@@ -1,0 +1,32 @@
+#!/bin/sh
+
+echo "==> Running Go linting in backend..."
+
+cd backend || {
+  echo "Could not change directory to zad6/backend. Aborting commit."
+  exit 1
+}
+
+golangci-lint run
+if [ $? -ne 0 ]; then
+  echo "❌ golangci-lint failed. Fix linting issues before committing."
+  exit 1
+fi
+
+echo "✅ Go linting passed."
+
+echo "==> Running frontend checks (linting)..."
+
+cd ../frontend || {
+  echo "❌ Could not change directory to zad6/frontend. Aborting commit."
+  exit 1
+}
+
+echo "⚡ Running ESLint..."
+npx eslint 'src/**/*.{js,jsx}' 
+if [ $? -ne 0 ]; then
+  echo "❌ ESLint failed. Please fix the issues before committing."
+  exit 1
+fi
+
+echo "✅ ESLint passed."  
