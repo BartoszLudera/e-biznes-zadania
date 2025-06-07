@@ -101,11 +101,11 @@ Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad6
 Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad7
 https://prnt.sc/9mTTqQWOVgI0 (niestety nie jestem w stanie utworzyć widgetów dlatego wklejam screenshot z sonra)
 
-❌Zadanie 8 Oauth2
+✅Zadanie 8 OpenAI GPT bot
 
-❌ 3.0 wymaganie 1 
+✅ 3.0 wymaganie 1 
 
-❌ 3.5 wymaganie 2 
+✅ 3.5 wymaganie 2 
 
 ❌ 4.0 wymaganie 3
 
@@ -115,7 +115,7 @@ https://prnt.sc/9mTTqQWOVgI0 (niestety nie jestem w stanie utworzyć widgetów d
 
 Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad8
 
-❌Zadanie 9 OpenAI GPT bot
+❌Zadanie 9 Oauth2
 
 ❌ 3.0 wymaganie 1 
 
