@@ -14,7 +14,7 @@
 
 Kod: https://github.com/BartoszLudera/e-biznes-zadania/blob/main/zad1
 
-Obraz z zadania 1: 
+Obraz z zadania 1: https://hub.docker.com/repository/docker/bartoszludera/java8-kotlin/general
 
 ✅Zadanie 2 Scala
 
