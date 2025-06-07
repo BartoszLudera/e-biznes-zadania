@@ -99,6 +99,7 @@ Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad6
 ✅ 5.0 wymaganie 5
 
 Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad7
+https://prnt.sc/9mTTqQWOVgI0 (niestety nie jestem w stanie utworzyć widgetów dlatego wklejam screenshot z sonra)
 
 ❌Zadanie 8 Oauth2
 
