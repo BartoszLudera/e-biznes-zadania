@@ -100,25 +100,25 @@ Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad6
 
 Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad7
 
-❌Zadanie 8 Oauth2
+✅Zadanie 8 Oauth2
 
-❌ 3.0 wymaganie 1 
+✅ 3.0 wymaganie 1 
 
-❌ 3.5 wymaganie 2 
+✅ 3.5 wymaganie 2 
 
 ❌ 4.0 wymaganie 3
 
-❌ 4.5 wymaganie 4
+✅ 4.5 wymaganie 4
 
 ❌ 5.0 wymaganie 5
 
 Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad8
 
-❌Zadanie 9 OpenAI GPT bot
+✅Zadanie 9 OpenAI GPT bot
 
-❌ 3.0 wymaganie 1 
+✅ 3.0 wymaganie 1 
 
-❌ 3.5 wymaganie 2 
+✅ 3.5 wymaganie 2 
 
 ❌ 4.0 wymaganie 3
 
