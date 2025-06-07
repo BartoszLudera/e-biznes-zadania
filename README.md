@@ -1,10 +1,10 @@
 # e-biznes
 
-❌Zadanie 1 Docker
+✅Zadanie 1 Docker
 
-❌ 3.0 wymaganie 1
+✅ 3.0 wymaganie 1
 
-❌ 3.5 wymaganie 2 
+✅ 3.5 wymaganie 2 
 
 ❌ 4.0 wymaganie 3 
 
@@ -12,7 +12,7 @@
 
 ❌ 5.0 wymaganie 5 
 
-Kod: 
+Kod: https://github.com/BartoszLudera/e-biznes-zadania/blob/main/zad1
 
 Obraz z zadania 1: 
 
