@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>ChatGPT Interface</title>
+</head>
+<body>
+    <h1>ChatGPT</h1>
+    <textarea id="input" rows="4" cols="50" placeholder="Wpisz wiadomość..."></textarea><br>
+    <button onclick="sendMessage()">Wyślij</button>
+    <h2>Odpowiedź:</h2>
+    <div id="response"></div>
+
+    <script>
+        async function sendMessage() {
+            const input = document.getElementById("input").value;
+            const resDiv = document.getElementById("response");
+
+            const response = await fetch("http://localhost:5000/api/chat", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message: input })
+            });
+
+            const data = await response.json();
+            resDiv.innerText = data.response || "Błąd.";
+        }
+    </script>
+</body>
+</html>
