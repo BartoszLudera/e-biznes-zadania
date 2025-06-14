@@ -128,9 +128,9 @@ Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad8
 
 Kod: https://github.com/BartoszLudera/e-biznes-zadania/tree/main/zad9
 
-❌Zadanie 10 Chmura/CI
+✅Zadanie 10 Chmura/CI
 
-❌ 3.0 wymaganie 1 
+✅ 3.0 wymaganie 1 
 
 ❌ 3.5 wymaganie 2 
 
